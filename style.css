@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(255,182,193);
+}
+#Middle{
+    background-color:rgb(230,160,150);
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+#Header{
+    padding-top: 20px;
+    width:900px;
+    height:100px;
+    background-image: url("images/background.png");
+  /*  padding: 20px;*/
+
+    text-align: center;
+}
+
+#Links{
+    background-color: pink;
+    width: 100%;
+}
+
+#Content{
+    background-color: (230,150,170);
+    width:100%;
+    text-align: center;
+}
+
+#Footer{
+    background-color: (230,100,70);
+    width: 100%;
+}
+
+#Title{
+    font-family: cursive;
+    font-size: 40px;
+    color: white;
+    text-shadow: transparent;
+}
+td 
+{
+    width: 200px;
+    text-align: center;
+}
